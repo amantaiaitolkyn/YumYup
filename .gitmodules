@@ -1,0 +1,6 @@
+[submodule "YumYup-back"]
+	path = YumYup-back
+	url = https://github.com/Asylniet/YumYup-back.git
+[submodule "YumYup-front"]
+	path = YumYup-front
+	url = https://github.com/Asylniet/YumYup-front.git
